@@ -1,0 +1,39 @@
+.color-name{
+    color:gold;
+}
+h1{
+    color:darkblue;
+}
+.p{
+    color:rgb(53, 90, 95);
+}
+.slideSection{
+    background-color:#f5e3e3;
+    border-radius:1em;
+
+}
+.rpImg{
+    width:130px;
+}
+.rpImgB{
+    height: 300px;
+}
+h5{
+    color:indianred;
+}
+.Container1 img{
+    width:405px!important;
+    height:300px!important;
+    background-color:lightcyan!important;
+}
+.card{
+    border-radius: 20px;
+}
+h3{
+    color:lightcoral;
+}
+.card-footer{
+    background-color:white!important;
+    border:0px!important;
+    border-radius:15px!important;
+}

@@ -1,1 +1,22 @@
-h1{color:balck;}
+.color-name{
+    color:peru;
+}
+.half-side{
+    width:41%;
+    float:left;
+    margin-left:        
+}
+    <section class="top-bar"> 
+    <div class="half-side">
+
+        <h1>Welcome To</h1>
+        <h1><span class="color-name">Minhaj_Sadik</span> Portfolio</h1>
+        <h3>World's Last Full Stack Developer</h3>
+        <p>Hi This Minhaj Sadik, You Might Saw Me Jumping, Climbing Buildings, And Stopping Trains. But Nobody Pays Me A dime For That Work. That's Why I Am Learning And Mastering Web Development. I'll Not Stop Until I Become The WEB Development <mark>HERO</mark> And A Full Stack Developer And <mark>Next Programmer</mark></p>
+        <a class="link-btn" target="_blank" href="https://www.linkedin.com/in/minhaj-sadik-26a424185/">Hire Me</a>
+    </div>
+
+    <div class="half-side">
+
+    </div>
+</section>
